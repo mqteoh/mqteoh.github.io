@@ -44,13 +44,10 @@ const siteConfig: SiteConfig = {
             text: 'GitHub',
             href: 'https://github.com/mqteoh'
         },
-        {
-            text: 'LinkedIn',
-            href: 'https://linkedin.com/in/tu-perfil'
-        }
+        
     ],
     hero: {
-        title: 'Hola, soy Mateo 👋',
+        title: 'Hola, soy Mateo ',
         text: "Estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, enfocado en desarrollo full-stack.\nTrabajo con Angular y Spring Boot construyendo aplicaciones con autenticación JWT y control de acceso por roles, además de Java para estructuras de datos y persistencia de información.\n\nMira mi [video de presentación](/presentacion).",
         image: {
             src: hero,
