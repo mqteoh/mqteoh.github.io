@@ -47,8 +47,8 @@ const siteConfig: SiteConfig = {
         
     ],
     hero: {
-        title: 'Hola, soy Mateo ',
-        text: "Estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, enfocado en desarrollo full-stack.\nTrabajo con Angular y Spring Boot construyendo aplicaciones con autenticación JWT y control de acceso por roles, además de Java para estructuras de datos y persistencia de información.\n\nMira mi [video de presentación](/presentacion).",
+        title: 'Hola, soy Mateo Robles Rodríguez ',
+        text: "Estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, enfocado en desarrollo full-stack.\nTrabajo con Angular y Spring Boot construyendo aplicaciones con autenticación JWT y control de acceso por roles, además de persistencia de información.\n\nMira mi [video de presentación](/presentacion).",
         image: {
             src: hero,
             alt: 'Mateo Robles Rodríguez'

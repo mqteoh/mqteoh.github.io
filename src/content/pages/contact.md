@@ -2,7 +2,7 @@
 title: Contacto
 seo:
   title: Contacto
-  description: Contáctame por correo, GitHub o LinkedIn.
+  description: Contáctame por correo o GitHub.
 ---
 
 _Correo:_

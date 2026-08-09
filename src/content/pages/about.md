@@ -12,7 +12,7 @@ Estudiante de Ingeniería de Sistemas en la **Universidad El Bosque**, enfocado 
 
 ## Habilidades
 
-Trabajo con **Angular** y **Spring Boot** construyendo aplicaciones con autenticación JWT y control de acceso por roles. También manejo **Java** para proyectos de estructuras de datos y persistencia de información, además de bases de datos relacionales.
+Trabajo con **Angular** y **Spring Boot** construyendo aplicaciones con autenticación JWT y control de acceso por roles. También manejo **Java** para proyectos de estructuras de datos y persistencia de información.
 
 ## Contacto
 
