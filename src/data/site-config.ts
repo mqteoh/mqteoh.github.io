@@ -3,17 +3,17 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://mqteoh.github.io',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Mateo Robles Rodríguez'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Mateo Robles',
+    subtitle: 'Estudiante de Ingeniería de Sistemas',
+    description: 'Portafolio de Mateo Robles Rodríguez, estudiante de Ingeniería de Sistemas en la Universidad El Bosque.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Mateo Robles - Portafolio'
     },
     headerNavLinks: [
         {
@@ -21,16 +21,12 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Presentación',
+            href: '/presentacion'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Evidencias',
+            href: '/evidencias'
         }
     ],
     footerNavLinks: [
@@ -41,51 +37,38 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'GitHub',
+            href: 'https://github.com/mqteoh'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://linkedin.com/in/tu-perfil'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hola, soy Mateo 👋',
+        text: "Estudiante de **Ingeniería de Sistemas** en la Universidad El Bosque, enfocado en desarrollo full-stack.\nTrabajo con Angular y Spring Boot construyendo aplicaciones con autenticación JWT y control de acceso por roles, además de Java para estructuras de datos y persistencia de información.\n\nMira mi [video de presentación](/presentacion).",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Mateo Robles Rodríguez'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Ver Presentación',
+                href: '/presentacion'
+            },
+            {
+                text: 'Contacto',
                 href: '/contact'
             }
         ]
     },
     subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
+        enabled: false
     },
     postsPerPage: 8,
     projectsPerPage: 8
