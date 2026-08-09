@@ -6,7 +6,7 @@ seo:
 ---
 
 _Correo:_
-Escríbeme a [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com).
+Escríbeme a [mroblesr@unbosque.edu.com](mailto:mroblesr@unbosque.edu.co).
 
 _Redes:_
-Encuéntrame en [GitHub](https://github.com/mqteoh) o [LinkedIn](https://linkedin.com/in/tu-perfil).
+Encuéntrame en [GitHub](https://github.com/mqteoh)

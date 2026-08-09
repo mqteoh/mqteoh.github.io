@@ -15,4 +15,4 @@ Trabajo con **Angular** y **Spring Boot** construyendo aplicaciones con autentic
 
 ## Contacto
 
-¿Quieres saber más sobre mis proyectos? Visita la sección de [Contacto](/contact).
+Para ver mis futuros proyectos visita la sección de [Contacto](/contact).
