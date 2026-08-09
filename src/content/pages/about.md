@@ -4,6 +4,7 @@ seo:
   title: About Me
   description: Conoce más sobre Mateo Robles Rodríguez.
 ---
+ ![Foto de Mateo](../../assets/images/about.jpg)
 
 ## Mateo Robles Rodríguez - Estudiante de Ingeniería de Sistemas
 
